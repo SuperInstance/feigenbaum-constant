@@ -1,6 +1,9 @@
 [package]
 name = "feigenbaum-constant"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Feigenbaum Constant"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/feigenbaum-constant"
+edition = "2021"
 
 [dependencies]
